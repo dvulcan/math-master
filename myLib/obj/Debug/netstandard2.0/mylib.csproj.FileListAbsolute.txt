@@ -1,0 +1,9 @@
+/Users/debbievulcan/math-master/mylib/bin/Debug/netstandard2.0/mylib.deps.json
+/Users/debbievulcan/math-master/myLib/bin/Debug/netstandard2.0/mylib.dll
+/Users/debbievulcan/math-master/myLib/bin/Debug/netstandard2.0/mylib.pdb
+/Users/debbievulcan/math-master/myLib/obj/Debug/netstandard2.0/mylib.csprojAssemblyReference.cache
+/Users/debbievulcan/math-master/myLib/obj/Debug/netstandard2.0/mylib.csproj.CoreCompileInputs.cache
+/Users/debbievulcan/math-master/myLib/obj/Debug/netstandard2.0/mylib.AssemblyInfoInputs.cache
+/Users/debbievulcan/math-master/myLib/obj/Debug/netstandard2.0/mylib.AssemblyInfo.cs
+/Users/debbievulcan/math-master/myLib/obj/Debug/netstandard2.0/mylib.dll
+/Users/debbievulcan/math-master/myLib/obj/Debug/netstandard2.0/mylib.pdb

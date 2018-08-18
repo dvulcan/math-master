@@ -1,0 +1,14 @@
+/Users/debbievulcan/math-master/myTests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/debbievulcan/math-master/myTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/debbievulcan/math-master/myTests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/debbievulcan/math-master/mytests/bin/Debug/netcoreapp2.1/mytests.deps.json
+/Users/debbievulcan/math-master/mytests/bin/Debug/netcoreapp2.1/mytests.runtimeconfig.json
+/Users/debbievulcan/math-master/mytests/bin/Debug/netcoreapp2.1/mytests.runtimeconfig.dev.json
+/Users/debbievulcan/math-master/myTests/bin/Debug/netcoreapp2.1/mytests.dll
+/Users/debbievulcan/math-master/myTests/bin/Debug/netcoreapp2.1/mytests.pdb
+/Users/debbievulcan/math-master/myTests/obj/Debug/netcoreapp2.1/mytests.csprojAssemblyReference.cache
+/Users/debbievulcan/math-master/myTests/obj/Debug/netcoreapp2.1/mytests.csproj.CoreCompileInputs.cache
+/Users/debbievulcan/math-master/myTests/obj/Debug/netcoreapp2.1/mytests.AssemblyInfoInputs.cache
+/Users/debbievulcan/math-master/myTests/obj/Debug/netcoreapp2.1/mytests.AssemblyInfo.cs
+/Users/debbievulcan/math-master/myTests/obj/Debug/netcoreapp2.1/mytests.dll
+/Users/debbievulcan/math-master/myTests/obj/Debug/netcoreapp2.1/mytests.pdb
