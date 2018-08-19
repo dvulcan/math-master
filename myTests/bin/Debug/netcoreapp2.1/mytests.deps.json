@@ -6,14 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "mytests/1.0.0": {
+      "myTests/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.7.0",
+          "mylib": "1.0.0",
           "xunit": "2.3.1",
           "xunit.runner.visualstudio": "2.3.1"
         },
         "runtime": {
-          "mytests.dll": {}
+          "myTests.dll": {}
         }
       },
       "Microsoft.CodeCoverage/1.0.3": {
@@ -1052,11 +1053,16 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.7.0"
         }
+      },
+      "mylib/1.0.0": {
+        "runtime": {
+          "mylib.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "mytests/1.0.0": {
+    "myTests/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1592,6 +1598,11 @@
       "sha512": "sha512-B+RtW4dyBquEyjSAFyV5RMifaOZOirDwlzcIq2DNVGo1gzJS8PAPu5S+2y1n6ZgEMWbpqJf9TkZ55+X6FLdy3A==",
       "path": "xunit.runner.visualstudio/2.3.1",
       "hashPath": "xunit.runner.visualstudio.2.3.1.nupkg.sha512"
+    },
+    "mylib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

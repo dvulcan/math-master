@@ -12,3 +12,6 @@
 /Users/debbievulcan/math-master/myTests/obj/Debug/netcoreapp2.1/mytests.AssemblyInfo.cs
 /Users/debbievulcan/math-master/myTests/obj/Debug/netcoreapp2.1/mytests.dll
 /Users/debbievulcan/math-master/myTests/obj/Debug/netcoreapp2.1/mytests.pdb
+/Users/debbievulcan/math-master/myTests/bin/Debug/netcoreapp2.1/mylib.dll
+/Users/debbievulcan/math-master/myTests/bin/Debug/netcoreapp2.1/mylib.pdb
+/Users/debbievulcan/math-master/mytests/obj/Debug/netcoreapp2.1/mytests.csproj.CopyComplete
